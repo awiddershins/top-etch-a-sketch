@@ -1,6 +1,11 @@
 .container{
     background-color: #adaada;
-    
+    display: flex;
+    padding: 100px;
+    width: 430px;
+    gap: 10px;
+    flex-wrap: wrap;
+
 }
 
 .grid{
