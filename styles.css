@@ -2,8 +2,8 @@
     background-color: #adaada;
     display: flex;
     padding: 100px;
-    width: 430px;
-    gap: 10px;
+    width: 400px;
+    gap: 0px;
     flex-wrap: wrap;
 
 }
