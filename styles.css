@@ -12,7 +12,15 @@
 
 }
 
+
 .grid{
     background-color: #daba61;
-    
+    position: relative;
+}
+
+.overlay{
+    background-color: #9e7b00;
+    position: absolute;
+    top: 0px;
+    right: 0px;
 }
